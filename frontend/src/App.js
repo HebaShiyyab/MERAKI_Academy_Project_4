@@ -1,4 +1,4 @@
-import '@splidejs/splide/dist/css/themes/splide-skyblue.min.css';
+
 import React,{useState} from "react";
 import { Route } from "react-router-dom";
 

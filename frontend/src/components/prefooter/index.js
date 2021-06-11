@@ -1,4 +1,8 @@
-import React, { useState } from "react";
+// app.js
+// import '@splidejs/splide/dist/css/themes/splide-skyblue.min.css';
+// import PreFooter from "./components/prefooter/index";
+
+import React from "react";
 import "./prefooter.css";
 import ReadMoreReact from "read-more-react";
 import { Splide, SplideSlide } from "@splidejs/react-splide";
